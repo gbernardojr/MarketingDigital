@@ -17,7 +17,8 @@ Este glossário reúne os principais termos e conceitos do marketing digital par
 **Backlink:** Link de um site externo que aponta para o seu site, importante para SEO.  
 **Banner Ads:** Anúncios em formato de imagem exibidos em websites.  
 **Blog:** Plataforma de conteúdo usado para atrair tráfego orgânico e engajar o público.  
-**Branding:** Construção e gestão da identidade e reputação de uma marca.  
+**Branding:** Construção e gestão da identidade e reputação de uma marca. 
+**Brand Awareness (Consciência de Marca):** O nível de reconhecimento e familiaridade que o público tem com uma marca.
 **Bounce Rate (Taxa de Rejeição):** Porcentagem de visitantes que saem do site sem interagir.  
 **Buyer Persona:** Representação fictícia do cliente ideal, baseada em dados e pesquisas.
 
